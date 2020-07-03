@@ -1,0 +1,356 @@
+
+dwc_huode.png
+size: 948,549
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/glow_00175
+  rotate: true
+  xy: 427, 166
+  size: 124, 119
+  orig: 128, 128
+  offset: 3, 4
+  index: -1
+images/huobao/glow01
+  rotate: true
+  xy: 2, 149
+  size: 398, 165
+  orig: 413, 175
+  offset: 1, 2
+  index: -1
+images/huobao/mai
+  rotate: false
+  xy: 719, 300
+  size: 66, 94
+  orig: 66, 94
+  offset: 0, 0
+  index: -1
+images/huobao/par1/00000
+  rotate: true
+  xy: 666, 196
+  size: 97, 87
+  orig: 102, 101
+  offset: 0, 4
+  index: -1
+images/huobao/par1/00001
+  rotate: true
+  xy: 355, 292
+  size: 98, 84
+  orig: 102, 101
+  offset: 0, 7
+  index: -1
+images/huobao/par1/00002
+  rotate: true
+  xy: 441, 294
+  size: 98, 84
+  orig: 102, 101
+  offset: 0, 7
+  index: -1
+images/huobao/par1/00003
+  rotate: false
+  xy: 799, 413
+  size: 89, 83
+  orig: 102, 101
+  offset: 8, 7
+  index: -1
+images/huobao/par1/00004
+  rotate: false
+  xy: 799, 328
+  size: 89, 83
+  orig: 102, 101
+  offset: 8, 7
+  index: -1
+images/huobao/par1/00005
+  rotate: true
+  xy: 688, 70
+  size: 85, 84
+  orig: 102, 101
+  offset: 9, 7
+  index: -1
+images/huobao/par1/00006
+  rotate: false
+  xy: 787, 244
+  size: 86, 82
+  orig: 102, 101
+  offset: 8, 5
+  index: -1
+images/huobao/par1/00007
+  rotate: false
+  xy: 755, 157
+  size: 85, 85
+  orig: 102, 101
+  offset: 8, 4
+  index: -1
+images/huobao/par1/00008
+  rotate: false
+  xy: 842, 157
+  size: 85, 85
+  orig: 102, 101
+  offset: 8, 4
+  index: -1
+images/huobao/par1/00009
+  rotate: false
+  xy: 774, 73
+  size: 78, 82
+  orig: 102, 101
+  offset: 15, 4
+  index: -1
+images/huobao/par1/00010
+  rotate: false
+  xy: 875, 244
+  size: 70, 82
+  orig: 102, 101
+  offset: 17, 5
+  index: -1
+images/huobao/par1/00011
+  rotate: true
+  xy: 688, 2
+  size: 66, 82
+  orig: 102, 101
+  offset: 16, 6
+  index: -1
+images/huobao/par1/00012
+  rotate: true
+  xy: 772, 2
+  size: 66, 81
+  orig: 102, 101
+  offset: 16, 7
+  index: -1
+images/huobao/par1/00013
+  rotate: true
+  xy: 855, 8
+  size: 66, 78
+  orig: 102, 101
+  offset: 16, 8
+  index: -1
+images/huobao/par1/00014
+  rotate: false
+  xy: 854, 76
+  size: 66, 79
+  orig: 102, 101
+  offset: 15, 8
+  index: -1
+images/huobao/par1/00015
+  rotate: false
+  xy: 890, 417
+  size: 56, 79
+  orig: 102, 101
+  offset: 15, 8
+  index: -1
+images/huobao/par1/00016
+  rotate: false
+  xy: 890, 361
+  size: 56, 54
+  orig: 102, 101
+  offset: 14, 27
+  index: -1
+images/huobao/par4/00001
+  rotate: true
+  xy: 139, 10
+  size: 137, 47
+  orig: 165, 63
+  offset: 14, 5
+  index: -1
+images/huobao/par4/00002
+  rotate: true
+  xy: 393, 2
+  size: 149, 48
+  orig: 165, 63
+  offset: 8, 6
+  index: -1
+images/huobao/par4/00003
+  rotate: true
+  xy: 240, 2
+  size: 149, 49
+  orig: 165, 63
+  offset: 8, 6
+  index: -1
+images/huobao/par4/00004
+  rotate: true
+  xy: 291, 2
+  size: 149, 49
+  orig: 165, 63
+  offset: 8, 6
+  index: -1
+images/huobao/par4/00005
+  rotate: true
+  xy: 188, 2
+  size: 149, 50
+  orig: 165, 63
+  offset: 8, 7
+  index: -1
+images/huobao/par4/00006
+  rotate: true
+  xy: 342, 2
+  size: 149, 49
+  orig: 165, 63
+  offset: 8, 8
+  index: -1
+images/huobao/par4/00007
+  rotate: true
+  xy: 636, 28
+  size: 147, 50
+  orig: 165, 63
+  offset: 9, 8
+  index: -1
+images/huobao/par4/00008
+  rotate: true
+  xy: 748, 400
+  size: 147, 49
+  orig: 165, 63
+  offset: 9, 9
+  index: -1
+images/huobao/par4/00009
+  rotate: false
+  xy: 799, 498
+  size: 147, 49
+  orig: 165, 63
+  offset: 9, 9
+  index: -1
+images/huobao/par4/00010
+  rotate: true
+  xy: 648, 396
+  size: 151, 49
+  orig: 165, 63
+  offset: 7, 9
+  index: -1
+images/huobao/par4/00011
+  rotate: true
+  xy: 440, 394
+  size: 153, 50
+  orig: 165, 63
+  offset: 6, 8
+  index: -1
+images/huobao/par4/00012
+  rotate: true
+  xy: 492, 394
+  size: 153, 50
+  orig: 165, 63
+  offset: 6, 8
+  index: -1
+images/huobao/par4/00013
+  rotate: true
+  xy: 544, 394
+  size: 153, 50
+  orig: 165, 63
+  offset: 6, 8
+  index: -1
+images/huobao/par4/00014
+  rotate: true
+  xy: 596, 394
+  size: 153, 50
+  orig: 165, 63
+  offset: 6, 8
+  index: -1
+images/huobao/par4/00015
+  rotate: true
+  xy: 443, 11
+  size: 153, 46
+  orig: 165, 63
+  offset: 6, 8
+  index: -1
+images/huobao/par4/00016
+  rotate: true
+  xy: 491, 11
+  size: 153, 46
+  orig: 165, 63
+  offset: 6, 8
+  index: -1
+images/huobao/par4/00017
+  rotate: true
+  xy: 539, 11
+  size: 153, 46
+  orig: 165, 63
+  offset: 6, 8
+  index: -1
+images/huobao/par4/00018
+  rotate: true
+  xy: 395, 392
+  size: 155, 43
+  orig: 165, 63
+  offset: 5, 8
+  index: -1
+images/huobao/par4/00019
+  rotate: true
+  xy: 349, 392
+  size: 155, 44
+  orig: 165, 63
+  offset: 5, 8
+  index: -1
+images/huobao/par4/00020
+  rotate: true
+  xy: 249, 392
+  size: 155, 48
+  orig: 165, 63
+  offset: 5, 5
+  index: -1
+images/huobao/par4/00021
+  rotate: true
+  xy: 299, 392
+  size: 155, 48
+  orig: 165, 63
+  offset: 5, 5
+  index: -1
+images/huobao/par4/00022
+  rotate: true
+  xy: 699, 396
+  size: 151, 47
+  orig: 165, 63
+  offset: 7, 5
+  index: -1
+images/huobao/par4/00023
+  rotate: true
+  xy: 587, 24
+  size: 151, 47
+  orig: 165, 63
+  offset: 7, 5
+  index: -1
+images/huobao/pn_back_1
+  rotate: true
+  xy: 2, 6
+  size: 141, 135
+  orig: 141, 135
+  offset: 0, 0
+  index: -1
+images/huobao/pn_back_2
+  rotate: false
+  xy: 527, 295
+  size: 94, 97
+  orig: 94, 97
+  offset: 0, 0
+  index: -1
+images/huobao/pn_back_3
+  rotate: false
+  xy: 623, 295
+  size: 94, 97
+  orig: 94, 97
+  offset: 0, 0
+  index: -1
+images/huobao/zi
+  rotate: true
+  xy: 169, 282
+  size: 265, 78
+  orig: 265, 78
+  offset: 0, 0
+  index: -1
+images/qd/glow1
+  rotate: false
+  xy: 548, 177
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+images/qd/qdbt/gd
+  rotate: false
+  xy: 169, 153
+  size: 256, 127
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+images/quan
+  rotate: false
+  xy: 249, 284
+  size: 104, 106
+  orig: 128, 128
+  offset: 12, 11
+  index: -1

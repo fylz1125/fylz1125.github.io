@@ -1,0 +1,69 @@
+
+dwc_bg.png
+size: 284,527
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng
+  rotate: false
+  xy: 2, 192
+  size: 144, 333
+  orig: 150, 350
+  offset: 5, 17
+  index: -1
+dian
+  rotate: false
+  xy: 223, 59
+  size: 58, 58
+  orig: 100, 100
+  offset: 21, 21
+  index: -1
+diguang
+  rotate: true
+  xy: 2, 5
+  size: 185, 125
+  orig: 200, 150
+  offset: 0, 22
+  index: -1
+games_zxb_zhizuo_021_00000
+  rotate: true
+  xy: 129, 74
+  size: 93, 92
+  orig: 128, 128
+  offset: 18, 18
+  index: -1
+glow1_00000
+  rotate: true
+  xy: 129, 2
+  size: 70, 73
+  orig: 100, 100
+  offset: 15, 13
+  index: -1
+par_00004
+  rotate: false
+  xy: 223, 119
+  size: 59, 59
+  orig: 60, 60
+  offset: 1, 0
+  index: -1
+quan_00000
+  rotate: true
+  xy: 148, 169
+  size: 197, 49
+  orig: 250, 80
+  offset: 30, 12
+  index: -1
+tuoyuan
+  rotate: true
+  xy: 199, 180
+  size: 186, 42
+  orig: 200, 50
+  offset: 7, 4
+  index: -1
+xiaodeng_00000
+  rotate: true
+  xy: 148, 368
+  size: 157, 134
+  orig: 200, 200
+  offset: 21, 34
+  index: -1

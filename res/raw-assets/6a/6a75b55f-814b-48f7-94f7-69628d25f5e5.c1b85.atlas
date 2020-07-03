@@ -1,0 +1,13 @@
+
+dwc_jbgm.png
+size: 189,189
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/guang01
+  rotate: false
+  xy: 1, 1
+  size: 187, 187
+  orig: 200, 200
+  offset: 7, 6
+  index: -1

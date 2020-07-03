@@ -1,0 +1,90 @@
+
+dwc_qiandao.png
+size: 687,197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/00000
+  rotate: true
+  xy: 151, 90
+  size: 105, 84
+  orig: 110, 100
+  offset: 3, 8
+  index: -1
+1/00001
+  rotate: true
+  xy: 323, 90
+  size: 105, 82
+  orig: 110, 100
+  offset: 3, 9
+  index: -1
+1/00002
+  rotate: true
+  xy: 407, 90
+  size: 105, 82
+  orig: 110, 100
+  offset: 3, 9
+  index: -1
+1/00003
+  rotate: true
+  xy: 237, 90
+  size: 105, 84
+  orig: 110, 100
+  offset: 3, 8
+  index: -1
+1/00004
+  rotate: false
+  xy: 151, 2
+  size: 104, 86
+  orig: 110, 100
+  offset: 3, 7
+  index: -1
+1/00005
+  rotate: false
+  xy: 363, 2
+  size: 103, 86
+  orig: 110, 100
+  offset: 4, 7
+  index: -1
+1/00006
+  rotate: false
+  xy: 594, 109
+  size: 91, 86
+  orig: 110, 100
+  offset: 10, 7
+  index: -1
+1/00007
+  rotate: true
+  xy: 594, 12
+  size: 95, 86
+  orig: 110, 100
+  offset: 8, 7
+  index: -1
+1/00008
+  rotate: false
+  xy: 468, 2
+  size: 103, 86
+  orig: 110, 100
+  offset: 4, 7
+  index: -1
+1/00009
+  rotate: false
+  xy: 257, 2
+  size: 104, 86
+  orig: 110, 100
+  offset: 3, 7
+  index: -1
+quanuqan
+  rotate: false
+  xy: 491, 94
+  size: 101, 101
+  orig: 128, 128
+  offset: 13, 13
+  index: -1
+zhuan_00000
+  rotate: false
+  xy: 2, 43
+  size: 147, 152
+  orig: 200, 200
+  offset: 27, 24
+  index: -1

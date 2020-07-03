@@ -1,0 +1,111 @@
+
+shark_movie.png
+size: 415,415
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shark_eye
+  rotate: false
+  xy: 375, 54
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+shark_eyepi
+  rotate: false
+  xy: 62, 6
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+shark_light
+  rotate: false
+  xy: 221, 50
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+shark_putong_1
+  rotate: false
+  xy: 279, 149
+  size: 128, 126
+  orig: 128, 126
+  offset: 0, 0
+  index: -1
+shark_putong_2
+  rotate: true
+  xy: 2, 36
+  size: 157, 217
+  orig: 157, 217
+  offset: 0, 0
+  index: -1
+shark_putong_3
+  rotate: true
+  xy: 221, 88
+  size: 105, 43
+  orig: 105, 43
+  offset: 0, 0
+  index: -1
+shark_putong_4
+  rotate: false
+  xy: 272, 21
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+shark_putong_ya1
+  rotate: false
+  xy: 272, 2
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+shark_putong_ya2
+  rotate: true
+  xy: 324, 25
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+shark_shoushang_1
+  rotate: true
+  xy: 279, 277
+  size: 136, 123
+  orig: 136, 123
+  offset: 0, 0
+  index: -1
+shark_shoushang_2
+  rotate: true
+  xy: 266, 85
+  size: 62, 68
+  orig: 62, 68
+  offset: 0, 0
+  index: -1
+shark_shoushang_3
+  rotate: false
+  xy: 221, 2
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+shark_shoushang_4
+  rotate: false
+  xy: 336, 89
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+shark_shwang_1
+  rotate: false
+  xy: 2, 195
+  size: 275, 218
+  orig: 275, 218
+  offset: 0, 0
+  index: -1
+shark_shwang_2
+  rotate: false
+  xy: 2, 4
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1

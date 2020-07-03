@@ -1,0 +1,125 @@
+
+dwc_qhtx.png
+size: 931,467
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/yan_00000
+  rotate: false
+  xy: 870, 13
+  size: 59, 60
+  orig: 80, 80
+  offset: 14, 4
+  index: -1
+1/yan_00001
+  rotate: true
+  xy: 870, 75
+  size: 62, 59
+  orig: 80, 80
+  offset: 11, 5
+  index: -1
+1/yan_00002
+  rotate: false
+  xy: 570, 38
+  size: 62, 58
+  orig: 80, 80
+  offset: 11, 6
+  index: -1
+1/yan_00003
+  rotate: false
+  xy: 379, 36
+  size: 62, 60
+  orig: 80, 80
+  offset: 11, 4
+  index: -1
+1/yan_00004
+  rotate: false
+  xy: 507, 36
+  size: 61, 60
+  orig: 80, 80
+  offset: 11, 4
+  index: -1
+1/yan_00005
+  rotate: false
+  xy: 443, 36
+  size: 62, 60
+  orig: 80, 80
+  offset: 11, 4
+  index: -1
+by_qipao
+  rotate: false
+  xy: 691, 45
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+cha
+  rotate: false
+  xy: 744, 139
+  size: 146, 143
+  orig: 146, 143
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 375, 98
+  size: 367, 367
+  orig: 367, 367
+  offset: 0, 0
+  index: -1
+glow_00175
+  rotate: false
+  xy: 744, 18
+  size: 124, 119
+  orig: 128, 128
+  offset: 3, 4
+  index: -1
+quan
+  rotate: false
+  xy: 744, 284
+  size: 183, 181
+  orig: 200, 200
+  offset: 8, 11
+  index: -1
+shanhu
+  rotate: false
+  xy: 379, 2
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 634, 40
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 302, 19
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+ya
+  rotate: false
+  xy: 892, 221
+  size: 27, 61
+  orig: 27, 61
+  offset: 0, 0
+  index: -1
+yu
+  rotate: false
+  xy: 2, 96
+  size: 371, 369
+  orig: 371, 369
+  offset: 0, 0
+  index: -1
+zhi
+  rotate: false
+  xy: 2, 12
+  size: 298, 82
+  orig: 298, 82
+  offset: 0, 0
+  index: -1

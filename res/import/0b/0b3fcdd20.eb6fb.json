@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"lvup_bubble","texture":"88hy5NAXtJNbjgdk4RiGoG","rect":[0,0,56,56],"offset":[0,0],"originalSize":[56,56],"capInsets":[0,0,0,0]}},{"__type__":"cc.ParticleAsset","_name":"stage_bubble","_native":".plist","spriteFrame":{"__uuid__":"54Pi0so0JPbZ3cCCUPSQ2l"}}]

@@ -1,0 +1,48 @@
+
+dwc_bg1.png
+size: 354,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng
+  rotate: true
+  xy: 1, 155
+  size: 144, 333
+  orig: 150, 350
+  offset: 5, 17
+  index: -1
+dian
+  rotate: false
+  xy: 188, 1
+  size: 58, 58
+  orig: 100, 100
+  offset: 21, 21
+  index: -1
+diguang
+  rotate: false
+  xy: 1, 28
+  size: 185, 125
+  orig: 200, 150
+  offset: 0, 22
+  index: -1
+games_zxb_zhizuo_021_00000
+  rotate: false
+  xy: 188, 61
+  size: 93, 92
+  orig: 128, 128
+  offset: 18, 18
+  index: -1
+glow1_00000
+  rotate: false
+  xy: 283, 80
+  size: 70, 73
+  orig: 100, 100
+  offset: 15, 13
+  index: -1
+par_00004
+  rotate: false
+  xy: 283, 19
+  size: 59, 59
+  orig: 60, 60
+  offset: 1, 0
+  index: -1

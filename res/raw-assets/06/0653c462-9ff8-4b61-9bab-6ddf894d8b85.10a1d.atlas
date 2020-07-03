@@ -1,0 +1,34 @@
+
+room_match.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fish_huafeizhengduo_1
+  rotate: true
+  xy: 844, 37
+  size: 75, 81
+  orig: 75, 81
+  offset: 0, 0
+  index: -1
+fish_huafeizhengduo_2
+  rotate: false
+  xy: 2, 58
+  size: 419, 54
+  orig: 419, 54
+  offset: 0, 0
+  index: -1
+fish_huafeizhengduo_3
+  rotate: false
+  xy: 2, 2
+  size: 419, 54
+  orig: 419, 54
+  offset: 0, 0
+  index: -1
+fish_huafeizhengduo_4
+  rotate: false
+  xy: 423, 58
+  size: 419, 54
+  orig: 419, 54
+  offset: 0, 0
+  index: -1

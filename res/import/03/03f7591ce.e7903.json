@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"fish_bubble_small","texture":"003eqrZEBO9IVEUutVBfyW","rect":[0,0,56,56],"offset":[0,0],"originalSize":[56,56],"capInsets":[0,0,0,0]}},{"__type__":"cc.ParticleAsset","_name":"lvup_bubble","_native":".plist","spriteFrame":{"__uuid__":"2ekhlRHa9ExJ3rfsQKbyiM"}}]

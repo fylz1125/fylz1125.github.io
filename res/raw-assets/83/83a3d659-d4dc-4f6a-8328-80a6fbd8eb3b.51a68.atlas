@@ -1,0 +1,195 @@
+
+fish_jingjichang.png
+size: 1254,1254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fish_dajiangsai
+  rotate: false
+  xy: 203, 128
+  size: 299, 140
+  orig: 299, 140
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_frame
+  rotate: false
+  xy: 2, 850
+  size: 298, 402
+  orig: 298, 402
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_jiangbei
+  rotate: true
+  xy: 2, 560
+  size: 288, 284
+  orig: 288, 284
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_jiangbei_light_1
+  rotate: true
+  xy: 2, 270
+  size: 288, 284
+  orig: 288, 284
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_jiangbei_light_10
+  rotate: false
+  xy: 864, 678
+  size: 288, 284
+  orig: 288, 284
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_jiangbei_light_11
+  rotate: true
+  xy: 874, 964
+  size: 288, 284
+  orig: 288, 284
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_jiangbei_light_12
+  rotate: false
+  xy: 944, 102
+  size: 288, 284
+  orig: 288, 284
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_jiangbei_light_2
+  rotate: true
+  xy: 288, 560
+  size: 288, 284
+  orig: 288, 284
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_jiangbei_light_3
+  rotate: true
+  xy: 288, 270
+  size: 288, 284
+  orig: 288, 284
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_jiangbei_light_4
+  rotate: true
+  xy: 302, 964
+  size: 288, 284
+  orig: 288, 284
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_jiangbei_light_5
+  rotate: false
+  xy: 574, 678
+  size: 288, 284
+  orig: 288, 284
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_jiangbei_light_6
+  rotate: true
+  xy: 588, 964
+  size: 288, 284
+  orig: 288, 284
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_jiangbei_light_7
+  rotate: true
+  xy: 574, 388
+  size: 288, 284
+  orig: 288, 284
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_jiangbei_light_8
+  rotate: true
+  xy: 658, 98
+  size: 288, 284
+  orig: 288, 284
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_jiangbei_light_9
+  rotate: true
+  xy: 860, 388
+  size: 288, 284
+  orig: 288, 284
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_jiangbeisidai_1
+  rotate: true
+  xy: 499, 2
+  size: 34, 87
+  orig: 34, 87
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_jiangbeisidai_2
+  rotate: true
+  xy: 588, 12
+  size: 25, 101
+  orig: 25, 101
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_qianzuan
+  rotate: false
+  xy: 203, 4
+  size: 294, 122
+  orig: 294, 122
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_rmb_1
+  rotate: true
+  xy: 629, 54
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_rmb_2
+  rotate: true
+  xy: 629, 95
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_rmb_3
+  rotate: true
+  xy: 302, 929
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_shayu_1
+  rotate: false
+  xy: 2, 12
+  size: 199, 256
+  orig: 199, 256
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_shayu_2
+  rotate: true
+  xy: 582, 39
+  size: 95, 45
+  orig: 95, 45
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_shayu_3
+  rotate: false
+  xy: 657, 62
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_shayu_4
+  rotate: false
+  xy: 499, 38
+  size: 81, 88
+  orig: 81, 88
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_star
+  rotate: false
+  xy: 504, 136
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+fish_dajiangsai_star_m
+  rotate: false
+  xy: 657, 40
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+dwc_sqsy.png
+size: 956,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/saoguang_00000
+  rotate: true
+  xy: 857, 59
+  size: 86, 96
+  orig: 100, 100
+  offset: 0, 2
+  index: -1
+1/saoguang_00001
+  rotate: true
+  xy: 767, 49
+  size: 96, 88
+  orig: 100, 100
+  offset: 4, 0
+  index: -1
+1/saoguang_00002
+  rotate: false
+  xy: 881, 198
+  size: 73, 73
+  orig: 100, 100
+  offset: 27, 0
+  index: -1
+1/saoguang_00003
+  rotate: false
+  xy: 56, 7
+  size: 37, 46
+  orig: 100, 100
+  offset: 51, 13
+  index: -1
+1/saoguang_00004
+  rotate: false
+  xy: 124, 29
+  size: 19, 24
+  orig: 100, 100
+  offset: 67, 26
+  index: -1
+bi
+  rotate: true
+  xy: 2, 5
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 391, 87
+  size: 367, 367
+  orig: 367, 367
+  offset: 0, 0
+  index: -1
+glow_00175
+  rotate: true
+  xy: 760, 147
+  size: 124, 119
+  orig: 128, 128
+  offset: 3, 4
+  index: -1
+mei_L
+  rotate: true
+  xy: 95, 12
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+mei_R
+  rotate: false
+  xy: 124, 13
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 760, 273
+  size: 183, 181
+  orig: 200, 200
+  offset: 8, 11
+  index: -1
+xing
+  rotate: false
+  xy: 690, 10
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+zhi
+  rotate: false
+  xy: 391, 2
+  size: 297, 83
+  orig: 297, 83
+  offset: 0, 0
+  index: -1
+zhuangyu
+  rotate: false
+  xy: 2, 55
+  size: 387, 399
+  orig: 387, 399
+  offset: 0, 0
+  index: -1
